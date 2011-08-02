@@ -1,0 +1,4 @@
+Simple erlang ports test
+
+usage:
+   make && ./run_test.sh 1000 10 3 (block size = 1000, processes count = 10, echo iterations = 3)
